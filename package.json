@@ -1,0 +1,15 @@
+{
+  "name": "student-profile-system-2026",
+  "version": "3.0.0",
+  "description": "Student Profile App Re-platformed onto PostgreSQL - Module 6 Onward",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "dayjs": "^1.11.10",
+    "pg": "^8.13.1"
+  }
+}
+
